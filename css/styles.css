@@ -103,7 +103,7 @@ body {
   transform: translateY(-50%);
 }
 .nav-link {
-  color: white;
+  color: #999;
   font-size: 13px;
   text-transform: uppercase;
   cursor: pointer;
@@ -114,7 +114,13 @@ body {
 }
 .nav-link.active,
 .nav-link:hover {
-  color: #000000;
+  color: #999;
+}
+.nav-link:hover {
+  background-color: #000;
+  border-radius: 10px;
+  transition: 1s;
+  font-size: 20px;
 }
 .nav-logoimg{
   margin-left: -95px;
