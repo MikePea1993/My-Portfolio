@@ -84,7 +84,7 @@ body {
 /* This is for the Welcome Page! */
 .top-section {
   height: 100vh;
-  background: url(../Assets/welcomepageWP.jpg) no-repeat center;
+  background: url(../assets/welcomepageWP.jpg) no-repeat center;
   background-size: cover;
 
 }
@@ -357,23 +357,23 @@ main > div > a:hover {
 }
 
 .swiper-slide--one {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("../Assets/picture1.jpg") no-repeat 50% 50%/cover;
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("../assets/picture1.jpg") no-repeat 50% 50%/cover;
 }
 
 .swiper-slide--two {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("../Assets/picture2.jpg") no-repeat 50% 50%/cover;
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("../assets/picture2.jpg") no-repeat 50% 50%/cover;
 }
 
 .swiper-slide--three {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("../Assets/picture3.jpg") no-repeat 50% 50%/cover;
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("../assets/picture3.jpg") no-repeat 50% 50%/cover;
 }
 
 .swiper-slide--four {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("../Assets/msedge_oLV82isnBA.jpg") no-repeat 50% 50%/cover;
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("../assets/msedge_oLV82isnBA.jpg") no-repeat 50% 50%/cover;
 }
 
 .swiper-slide--five {
-  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("../Assets/msedge_Xi3iRTBGLI.jpg") no-repeat 50% 50%/cover;
+  background: linear-gradient(to top, #0f2027, #203a4300, #2c536400), url("../assets/msedge_Xi3iRTBGLI.jpg") no-repeat 50% 50%/cover;
 }
 
 .swiper-3d .swiper-slide-shadow-left,
