@@ -117,6 +117,9 @@ body {
 .nav-link:hover {
   color: #999;
 }
+#topLink {
+  opacity: 0;
+}
 .nav-link:hover {
   background-color: #000;
   border-radius: 10px;
@@ -498,7 +501,10 @@ body {
       top: 30px;
     }
     .nav-logo {
-      left: 50px;
+      left: -45px;
+    }
+    #topLink {
+      opacity: 1;
     }
     .nav-links-container {
       width: 140px;
@@ -520,6 +526,17 @@ body {
     }
     .nav-link.active {
       height: 100%;
+      opacity: 1;
+      margin-top: -13px;
+      opacity: 1;
+    }
+    .nav-link.active {
+      height: 100%;
+      opacity: 1;
+      margin-top: -13px;
+    }
+    #topLink:hover {
+      background-color: transparent;
       opacity: 1;
     }
   }
