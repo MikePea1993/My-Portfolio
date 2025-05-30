@@ -9,7 +9,7 @@
 
 **Modern React TypeScript Portfolio Showcasing Full-Stack Development Skills**
 
-🌐 **[View Live Portfolio](https://mikepea1993.github.io/My-Portfolio)** 
+🌐 **[View Live Portfolio](https://mpdevelopment.netlify.app/)** 
 
 </div>
 
@@ -207,7 +207,7 @@ This portfolio represents my journey as a **Front-End Developer** with full-stac
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-a83a44?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mikepea1993.github.io/My-Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-a83a44?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mpdevelopment.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-MikePea1993-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikePea1993)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linktr.ee/mikepea1993)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Michaelpeacock1993@gmail.com)
