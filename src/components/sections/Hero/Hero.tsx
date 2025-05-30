@@ -4,19 +4,19 @@ import { Button } from "../../common/Button";
 import { useSmoothScroll } from "../../../hooks/useSmoothScroll";
 import styles from "./Hero.module.css";
 
+// Words array outside component
+const words = [
+  "Aspiring Full-Stack Developer",
+  "Bot Developer",
+  "Game Scripter",
+  "Problem Solver",
+];
+
 export const Hero: React.FC = () => {
   const [currentWord, setCurrentWord] = useState(0);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [isLoaded, setIsLoaded] = useState(false);
   const { scrollToSection } = useSmoothScroll();
-
-  // Updated with Michael's actual focus areas
-  const words = [
-    "Aspiring Full-Stack Developer",
-    "Bot Developer",
-    "Game Scripter",
-    "Problem Solver",
-  ];
 
   useEffect(() => {
     setIsLoaded(true);
