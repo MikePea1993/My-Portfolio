@@ -1,0 +1,42 @@
+.techIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: var(--radius-md);
+  color: var(--tech-color, #6366f1);
+  transition: var(--transition-base);
+  cursor: default;
+}
+
+.techIcon:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: var(--tech-color, #6366f1);
+  transform: translateY(-2px) scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* Sizes */
+.sm {
+  width: 28px;
+  height: 28px;
+  font-size: 14px;
+}
+
+.md {
+  width: 36px;
+  height: 36px;
+  font-size: 18px;
+}
+
+.lg {
+  width: 44px;
+  height: 44px;
+  font-size: 22px;
+}
+
+/* Special effects for certain technologies */
+.techIcon:hover svg {
+  filter: drop-shadow(0 0 8px var(--tech-color));
+}
